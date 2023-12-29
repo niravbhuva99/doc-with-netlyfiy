@@ -5,5 +5,5 @@ module.exports = {
     theme: 'dawn'
   },
   base_url : "/knowlegebase",
-  source: docs
+  source: "/docs"
 }
