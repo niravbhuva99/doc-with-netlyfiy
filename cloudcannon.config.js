@@ -3,5 +3,7 @@ module.exports = {
     tab_size:4,
     show_gutter: false,
     theme: 'dawn'
-  }
+  },
+  base_url : "/knowlegebase"
+  
 }
