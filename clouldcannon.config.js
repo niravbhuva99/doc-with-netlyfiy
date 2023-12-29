@@ -1,5 +1,5 @@
 module.exports = {
-  source
+ 
     collections_config: {
     blog: {
       path: "/blog",
