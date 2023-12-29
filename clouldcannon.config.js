@@ -3,7 +3,7 @@ module.exports = {
     blog: {
       path: "blog",
       output: true,
-      url: "/posts/{category|slugify}/[slug].html",
+      url: "/blog/[slug].html",
       icon: "event_available"
     },
  
