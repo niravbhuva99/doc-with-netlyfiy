@@ -1,5 +1,11 @@
-collections_config: {}
 _enabled_editors:
   - visual
   - content
   - data
+collections_config:
+  my_collection:
+    path:"docs/tutorial-basics"
+    _enabled_editors:
+      - visual
+      - content
+      - data
