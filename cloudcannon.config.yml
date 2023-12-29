@@ -1,1 +1,4 @@
-output: built/site
+_enabled_editors: 
+  - visual
+  - content
+  - data
