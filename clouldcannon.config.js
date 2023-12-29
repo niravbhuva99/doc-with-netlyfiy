@@ -12,7 +12,7 @@ module.exports = {
     people: {
       // Reads the contents of each file in this directory
       path: 'docs/tutorial-basics',
-
+      format: 'md'
 
       
    
