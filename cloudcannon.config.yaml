@@ -1,7 +1,0 @@
-collections_config:
-  posts:
-    path: docs/tutorial-basics
-    url: /blog/[slug]/
-    _enabled_editors:
-      - content
-    
