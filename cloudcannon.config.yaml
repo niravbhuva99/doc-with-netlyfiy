@@ -10,4 +10,4 @@ collections_config:
     output: true
     url: /[slug]/
     _enabled_editors:
-      - visual
+      - content
