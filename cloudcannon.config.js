@@ -4,6 +4,6 @@ module.exports = {
     show_gutter: false,
     theme: 'dawn'
   },
-  base_url : "/knowlegebase"
+  base_url : "/knowlegebase",
   source: docs
 }
