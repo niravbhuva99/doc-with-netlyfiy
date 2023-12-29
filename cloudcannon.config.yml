@@ -1,4 +1,5 @@
-_enabled_editors: 
+collections_config: {}
+_enabled_editors:
   - visual
   - content
   - data
