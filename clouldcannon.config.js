@@ -2,7 +2,7 @@ module.exports = {
 
 
   // Read from ./src instead of .
-  source: 'docs',
+  source: './',
 
   // Write to ./output/_cloudcannon/info.json instead of ./_cloudcannon/info.json
   output: 'output',
@@ -11,13 +11,8 @@ module.exports = {
   collections_config: {
     people: {
       // Reads the contents of each file in this directory
-      path: 'tutorial-basics',
+      path: 'docs/tutorial-basics',
 
-      // The URL template for items in this collection
-      url: '/t/{department|slugify}/[slug]/',
-
-      // Tells CloudCannon this collection produces output files
-      output: true
 
       
    
