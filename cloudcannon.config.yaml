@@ -5,7 +5,7 @@ collections_config:
     url: /blog/[slug]/
     _enabled_editors:
       - content
-  pages:
+  posts:
     path: docs
     output: true
     url: /[slug]/
