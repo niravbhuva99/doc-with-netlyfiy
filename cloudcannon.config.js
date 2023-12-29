@@ -7,8 +7,8 @@ module.exports = {
   base_url : "/knowlegebase",
   source: "blog",
   _enabled_editors: {
-      -visual
-      -content
-      -data
+      visual
+      content
+      data
   }
 }
