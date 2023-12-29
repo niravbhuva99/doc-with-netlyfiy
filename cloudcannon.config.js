@@ -5,5 +5,10 @@ module.exports = {
     theme: 'dawn'
   },
   base_url : "/knowlegebase",
-  source: "blog"
+  source: "blog",
+  _enabled_editors: {
+      -visual
+      -content
+      -data
+  }
 }
