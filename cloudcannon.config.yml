@@ -25,9 +25,13 @@ collection_groups:
       - pages
   - heading: Other
 
-_inputs: {}
-_select_data: {}
-_structures: {}
-_editables: {}
-data_config: {}
-timezone: Etc/UTC
+color: Red
+ssg: jekyll
+_select_data:
+  colors:
+    - Red
+    - Blue
+  ssgs:
+    jekyll: Jekyll
+    hugo: Hugo
+    11ty: Eleventy
