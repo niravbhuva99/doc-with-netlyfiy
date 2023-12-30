@@ -1,10 +1,26 @@
+output: build/output
+collections_config:
+  my_collection:
+    path: docs/tutorial-basics
+    output: false
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  my_blog:
+    path: blog
+    output: false
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
 _enabled_editors:
   - visual
   - content
   - data
-collections_config:
-  my_collection:
-    path: "docs/tutorial-basics"
-  my_blog:
-    path: "blog"
-output: "build/output"
+_inputs: {}
+_select_data: {}
+_structures: {}
+_editables: {}
+data_config: {}
+timezone: Etc/UTC
