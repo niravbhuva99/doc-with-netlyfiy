@@ -18,6 +18,7 @@ _enabled_editors:
   - visual
   - content
   - data
+collections_config_override: true
 _inputs: {}
 _select_data: {}
 _structures: {}
