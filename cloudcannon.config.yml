@@ -18,7 +18,16 @@ _enabled_editors:
   - visual
   - content
   - data
-collections_config_override: true
+collection_groups:
+  - heading: Blogging
+    collections:
+      - my_collection
+      - my_blog
+  - heading: Other
+    collections:
+      - pages
+      - staff
+      - features
 _inputs: {}
 _select_data: {}
 _structures: {}
