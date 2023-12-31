@@ -14,10 +14,7 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
-_enabled_editors:
-  - visual
-  - content
-  - data
+
 collection_groups:
   - heading: Blogging
     collections:
