@@ -1,9 +1,9 @@
 ---
 sidebar_position: 1
-tag : 
+tag:
     - Apps
+    - web
 ---
-
 # Create a Page
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
