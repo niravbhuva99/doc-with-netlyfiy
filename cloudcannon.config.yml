@@ -26,11 +26,8 @@ collection_groups:
 
 
 _inputs:
-  my_custom_input:
-    type: image
-    label: Hero Image
+ title:
+    type: text
+    label: modi text
     comment: Appears at the top of the page
-    options:
-      width: 720
-      height: 480
-      resize_style: cover
+    
