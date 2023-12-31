@@ -25,3 +25,12 @@ collection_groups:
       - my_blog
 
 
+_inputs:
+  my_custom_input:
+    type: image
+    label: Hero Image
+    comment: Appears at the top of the page
+    options:
+      width: 720
+      height: 480
+      resize_style: cover
