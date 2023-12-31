@@ -25,7 +25,9 @@ collection_groups:
       - my_blog
 
 
+main_content: 
 _inputs:
+  main_content:
     type: markdown
     options:
       blockquote: true
