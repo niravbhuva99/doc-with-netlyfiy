@@ -22,16 +22,6 @@ collection_groups:
   - heading: Blogging
     collections:
       - my_collection
-      - pages
-  - heading: Other
+      - my_blog
 
-color: Red
-ssg: jekyll
-_select_data:
-  colors:
-    - Red
-    - Blue
-  ssgs:
-    jekyll: Jekyll
-    hugo: Hugo
-    11ty: Eleventy
+
