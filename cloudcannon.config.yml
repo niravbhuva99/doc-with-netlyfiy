@@ -26,7 +26,6 @@ collection_groups:
 
 
 _inputs:
-  main_content:
     type: markdown
     options:
       blockquote: true
