@@ -3,7 +3,7 @@ collections_config:
   my_collection:
     path: docs/tutorial-basics
     output: false
-  
+    
   my_blog:
     path: blog
     output: false
