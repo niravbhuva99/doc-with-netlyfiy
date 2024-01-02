@@ -5,7 +5,7 @@ collections_config:
     output: false
     disable_add: true
     disable_add_folder: true
-    disable_file_actions: true
+    
   my_blog:
     path: blog
     output: false
