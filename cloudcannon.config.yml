@@ -3,17 +3,11 @@ collections_config:
   my_collection:
     path: docs/tutorial-basics
     output: false
-    icon: notes
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
+  
   my_blog:
     path: blog
     output: false
-    icon: notes
-    disable_add: false
-    disable_add_folder: false
-    disable_file_actions: false
+
 
 collection_groups:
   - heading: Blogging
@@ -23,28 +17,6 @@ collection_groups:
 
 
 
-_inputs:
-    type: markdown
-    options:
-      blockquote: true
-      bold: true
-      italic: true
-      strike: true
-      subscript: true
-      superscript: true
-      underline: true
-      bulletedlist: true
-      indent: true
-      numberedlist: true
-      outdent: true
-      code: true
-      embed: true
-      horizontalrule: true
-      image: true
-      table: true
-      undo: true
-      redo: true
-      removeformat: true
-    
+
 
     
