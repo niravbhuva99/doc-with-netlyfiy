@@ -3,7 +3,9 @@ collections_config:
   my_collection:
     path: docs/tutorial-basics
     output: false
-    
+    disable_add: true
+    disable_add_folder: true
+    disable_file_actions: true
   my_blog:
     path: blog
     output: false
