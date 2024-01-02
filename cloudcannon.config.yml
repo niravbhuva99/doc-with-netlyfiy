@@ -5,7 +5,8 @@ collections_config:
     output: false
     disable_add: true
     disable_add_folder: true
-    
+     create:
+      path: '{title|slugify}.md'
   my_blog:
     path: blog
     output: false
