@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-
+import Cus from '../src/Components/HomePageFeatures/Cus'
 # Tutorial Intro
 
 Let's discover **Docusaurus in less than 5 minutes**.
